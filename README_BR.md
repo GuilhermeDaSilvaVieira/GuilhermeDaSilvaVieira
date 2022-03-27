@@ -1,7 +1,7 @@
 ## OLÁ, ME CHAMO GUILHERME :wave:
 
 #### IDIOMAS DISPONÍVEIS
-#### [Português :brazil:](./README_BR.md)&nbsp;&nbsp;&nbsp;&nbsp;[Inglês :us:](./README_US.md)
+#### [Português :brazil:](./README_BR.md)&nbsp;&nbsp;&nbsp;&nbsp;[Inglês :us:](./README.md)
 
 #### BIO EXTRA
 - :computer: Usuário **Linux**, *A propósito eu uso Arch* :sunglasses:

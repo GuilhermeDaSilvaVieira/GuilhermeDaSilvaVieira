@@ -1,7 +1,7 @@
 ## HI, I'M GUILHERME :wave:
 
 #### AVAILABLE LANGUAGES
-#### [English :us:](./README_US.md)&nbsp;&nbsp;&nbsp;&nbsp;[Portuguese :brazil:](./README_BR.md)
+#### [English :us:](./README.md)&nbsp;&nbsp;&nbsp;&nbsp;[Portuguese :brazil:](./README_BR.md)
 
 #### EXTRA BIO
 - :computer: **Linux** user, *btw i use Arch* :sunglasses:
