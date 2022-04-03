@@ -30,6 +30,6 @@
 
 #### STATISTICS
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedasilvavieira&langs_count=10&layout=compact&theme=tokyonight) 
-#### CONTACT ME
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-da-silva-vieira-68479414b/)
+
+#### CONTACT ME - *in progress*
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/#inbox?compose=CllgCJNqtVdgZrLvGjrJhNvsxhXkjdccHsZKlkLtqLsmXJWxLJhRDtpzsfqLPsVvwclQFfbhPkg)
