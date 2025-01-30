@@ -1,9 +1,11 @@
 # Hi there, I'm Guilherme! 👋
-## Full Stack Developer | Linux Enthusiast | Tech Explorer | [🇧🇷 Ler em Português](README.pt-br.md)
+## Front End Developer | Linux Enthusiast | Tech Explorer | [🇧🇷 Ler em Português](README.pt-br.md)
 
-I'm a passionate full-stack developer and lifelong learner. I specialize in **Dart**, **Rust**, and **Entrepreneurship**, and I’m always exploring new ways to improve the user experience through **UX/UI** design. In my free time, I enjoy studying economics and diving into **Philosophy** and **Human Behavior**.
+I’m a passionate front-end developer with a strong focus on Flutter, Dart, and UX/UI design. I specialize in creating intuitive, user-centered interfaces and seamless experiences. I also have experience with Rust, including backend development with Axum, as well as technologies like HTML, CSS, JS, TS, and VueJS.
 
-When I'm not coding, you can usually find me working on personal projects to sharpen my skills.
+With an entrepreneurial mindset, I’m always looking for innovative ways to solve problems and create impactful solutions. Outside of coding, I enjoy exploring economics, philosophy, and human behavior.
+
+In my free time, I’m constantly working on personal projects to improve my skills and push the boundaries of what’s possible. Check out my repositories to see the projects I’m working on!
 
 ---
 
