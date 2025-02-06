@@ -1,7 +1,7 @@
 # Hi there, I'm Guilherme! 👋
-## Front End Developer | Linux Enthusiast | Tech Explorer | [🇧🇷 Ler em Português](README.pt-br.md)
+## Software Engineer | Linux Enthusiast | Tech Explorer | [🇧🇷 Ler em Português](README.pt-br.md)
 
-I’m a passionate front-end developer with a strong focus on Flutter, Dart, and UX/UI design. I specialize in creating intuitive, user-centered interfaces and seamless experiences. I also have experience with Rust, including backend development with Axum, as well as technologies like HTML, CSS, JS, TS, and VueJS.
+I’m a passionate Software Engineer with a strong focus on Flutter, Dart, and UX/UI design. I specialize in creating intuitive, user-centered interfaces and seamless experiences. I also have experience with Rust, including backend development with Axum, as well as technologies like HTML, CSS, JS, TS, and VueJS.
 
 With an entrepreneurial mindset, I’m always looking for innovative ways to solve problems and create impactful solutions. Outside of coding, I enjoy exploring economics, philosophy, and human behavior.
 
@@ -26,7 +26,7 @@ In my free time, I’m constantly working on personal projects to improve my ski
 ---
 
 ### 🚧 Currently Working On
-- Building a **cross-platform mobile and desktop todo app** with Flutter and Dart.
+- Building a **web todo app** with Python(FastAPI), PostgreSQL, TypeScript(Vue)
 
 ---
 

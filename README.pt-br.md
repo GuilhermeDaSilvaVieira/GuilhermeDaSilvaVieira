@@ -1,7 +1,7 @@
 # Olá, eu sou o Guilherme! 👋
-## Desenvolvedor Front End | Entusiasta de Linux | Explorador de Tecnologia | [🇬🇧 Read in English](README.md)
+## Engenheiro de Software | Entusiasta de Linux | Explorador de Tecnologia | [🇬🇧 Read in English](README.md)
 
-Sou um desenvolvedor front-end apaixonado, com forte foco em **Flutter**, **Dart** e **design UX/UI**. Me especializo em criar interfaces intuitivas e centradas no usuário, proporcionando experiências fluidas. Também tenho experiência com **Rust**, incluindo desenvolvimento backend com **Axum**, além de tecnologias como **HTML**, **CSS**, **JS**, **TS** e **VueJS**.
+Sou um engenheiro de software apaixonado, com forte foco em **Flutter**, **Dart** e **design UX/UI**. Me especializo em criar interfaces intuitivas e centradas no usuário, proporcionando experiências fluidas. Também tenho experiência com **Rust**, incluindo desenvolvimento backend com **Axum**, além de tecnologias como **HTML**, **CSS**, **JS**, **TS** e **VueJS**.
 
 Com uma mentalidade empreendedora, estou sempre em busca de formas inovadoras de resolver problemas e criar soluções impactantes. Fora da programação, gosto de explorar **economia**, **filosofia** e **comportamento humano**.
 
@@ -26,7 +26,7 @@ No meu tempo livre, estou constantemente trabalhando em projetos pessoais para a
 ---
 
 ### 🚧 Atualmente Trabalhando Em
-- Construindo um **aplicativo de tarefas cross-platform para dispositivos móveis e desktop** com Flutter e Dart.
+- Construindo um **aplicativo de tarefas na web** com Python(FastAPI), PostgreSQL, TypeScript(Vue)
 
 ---
 
