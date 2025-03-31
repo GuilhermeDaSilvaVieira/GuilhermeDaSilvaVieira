@@ -1,13 +1,7 @@
 # Hi there, I'm Guilherme! 👋
-## Software Engineer | Linux Enthusiast | Tech Explorer | [🇧🇷 Ler em Português](README.pt-br.md)
+## Software Engineer [🇧🇷 Ler em Português](README.pt-br.md)
 
-I’m a passionate Software Engineer with a strong focus on Flutter, Dart, and UX/UI design. I specialize in creating intuitive, user-centered interfaces and seamless experiences. I also have experience with Rust, including backend development with Axum, as well as technologies like HTML, CSS, JS, TS, and VueJS.
-
-With an entrepreneurial mindset, I’m always looking for innovative ways to solve problems and create impactful solutions. Outside of coding, I enjoy exploring economics, philosophy, and human behavior.
-
-In my free time, I’m constantly working on personal projects to improve my skills and push the boundaries of what’s possible. Check out my repositories to see the projects I’m working on!
-
----
+Passionate about problem-solving and innovation, I thrive on understanding how things work and building impactful solutions, that's why I learned UX/UI. My journey started with Unity and C#, expanded to graphics with OpenGL/Vulkan in C++, and led me to Flutter, where I honed my mobile development skills. I also explore web technologies such as Vue, JS, TS, HTML, CSS, FastAPI and Axum, which gave me full-stack insight. My foundation in C, Java, and Python strengthens my adaptability.
 
 ### 🛠️ Tech Stack
 

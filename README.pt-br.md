@@ -1,13 +1,7 @@
 # Olá, eu sou o Guilherme! 👋
-## Engenheiro de Software | Entusiasta de Linux | Explorador de Tecnologia | [🇬🇧 Read in English](README.md)
+## Engenheiro de Software [🇬🇧 Read in English](README.md)
 
-Sou um engenheiro de software apaixonado, com forte foco em **Flutter**, **Dart** e **design UX/UI**. Me especializo em criar interfaces intuitivas e centradas no usuário, proporcionando experiências fluidas. Também tenho experiência com **Rust**, incluindo desenvolvimento backend com **Axum**, além de tecnologias como **HTML**, **CSS**, **JS**, **TS** e **VueJS**.
-
-Com uma mentalidade empreendedora, estou sempre em busca de formas inovadoras de resolver problemas e criar soluções impactantes. Fora da programação, gosto de explorar **economia**, **filosofia** e **comportamento humano**.
-
-No meu tempo livre, estou constantemente trabalhando em projetos pessoais para aprimorar minhas habilidades e expandir os limites do que é possível. Confira meus repositórios para ver os projetos nos quais estou trabalhando!
-
----
+Apaixonado por solução de problemas e inovação, eu prospero em entender como as coisas funcionam e construir soluções impactantes, é por isso que aprendi UX/UI. Minha jornada começou com Unity e C#, expandiu para gráficos com OpenGL/Vulkan em C++ e me levou ao Flutter, onde aprimorei minhas habilidades de desenvolvimento móvel. Também exploro tecnologias da web como Vue, JS, TS, HTML, CSS, FastAPI e Axum, que me deram uma visão full-stack. Minha base em C, Java e Python fortalece minha adaptabilidade.
 
 ### 🛠️ Stack de Tecnologias
 
